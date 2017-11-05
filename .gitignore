@@ -1,0 +1,14 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+*.pyc
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# dependencies
+/node_modules
+
+#IDEs
+*.komodoproject

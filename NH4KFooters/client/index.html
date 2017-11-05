@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>New Hampshire 4,000'ers</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="css/styles.css" />
+    </head>
+    <body>
+        <div id="loading">Loading data...</div>
+        <div id="disp" class="hidden">
+            <label for="mtnSelect">Mountains:</label><br />
+            <select id="mtnSelect">
+              <option value="-1">Select a Mountain</option>
+            </select>
+            <br />Elevation: <span id="elevation" class="res"></span>
+            <br />Lat, Lng: <span id="latlng" class="res"></span>
+            <br /><img id="pic" alt="" class="hidden" />
+            <br /><span id="desc" class="res"></span>
+        </div>
+
+        <script src="js/lat_lng.js"></script>
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

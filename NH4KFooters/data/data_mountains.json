@@ -1,0 +1,291 @@
+{
+	"mountains": [{
+		"mountainName": "Mt. Washington",
+		"mountainElevation": "6,288'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-washington.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Washington-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Adams",
+		"mountainElevation": "5,799'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-adams.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Adams-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Jefferson",
+		"mountainElevation": "5,716'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-jefferson.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Jefferson-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Monroe",
+		"mountainElevation": "5,372'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-monroe.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Monroe-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Madison",
+		"mountainElevation": "5,366'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-madison.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Madison-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Lafayette",
+		"mountainElevation": "5,260'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-lafayette.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Lafayette-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Lincoln",
+		"mountainElevation": "5,089'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-lincoln.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Lincoln-StoryImage_2.jpg"
+	}, {
+		"mountainName": "South Twin",
+		"mountainElevation": "4,902'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-south-twin.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/STwin-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Carter Dome",
+		"mountainElevation": "4,832'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-carter-dome.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/CDome-StoryImage.jpg"
+	}, {
+		"mountainName": "Mt. Moosilauke",
+		"mountainElevation": "4,802'",
+		"mountainEffort": "Moderate ",
+		"mountainURL": "/hiking-mount-moosilauke.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Moosilauke-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Eisenhower",
+		"mountainElevation": "4,760'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-eisenhower.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Eisenhower-StoryImage_2.jpg"
+	}, {
+		"mountainName": "North Twin",
+		"mountainElevation": "4,761'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-north-twin.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/NTwin-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Carrigain",
+		"mountainElevation": "4,700'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-carrigain.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Carrigain-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Bond",
+		"mountainElevation": "4,698'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-bond.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Bond-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Middle Carter",
+		"mountainElevation": "4,610'",
+		"mountainEffort": "Moderate to Strenuous",
+		"mountainURL": "/hiking-middle-carter.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/MidCarter-StoryImage.jpg"
+	}, {
+		"mountainName": "West Bond",
+		"mountainElevation": "4,540'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-west-bond.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/WBond-StoryImage.jpg"
+	}, {
+		"mountainName": "Mt. Garfield",
+		"mountainElevation": "4,500'",
+		"mountainEffort": "Moderate to Strenuous",
+		"mountainURL": "/hiking-mount-garfield.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Garfield-StoryImage.jpg"
+	}, {
+		"mountainName": "Mt. Liberty",
+		"mountainElevation": "4,459'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-liberty.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Liberty-StoryImage_2.jpg"
+	}, {
+		"mountainName": "South Carter",
+		"mountainElevation": "4,430'",
+		"mountainEffort": "Moderate to Strenuous",
+		"mountainURL": "/hiking-south-carter.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Carters-StoryImage.jpg"
+	}, {
+		"mountainName": "Wildcat Mountain",
+		"mountainElevation": "4,422'",
+		"mountainEffort": "Strenuous ",
+		"mountainURL": "/hiking-wildcat-mountain.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Wildcat-StoryImage.jpg"
+	}, {
+		"mountainName": "Mt. Hancock",
+		"mountainElevation": "4,420'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-hancock.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Hancock-StoryImage_2.jpg"
+	}, {
+		"mountainName": "South Kinsman",
+		"mountainElevation": "4,358'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-south-kinsman.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/SKinsman-StoryImage.jpg"
+	}, {
+		"mountainName": "Mt. Field",
+		"mountainElevation": "4,340'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-field.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Field-StoryImage.jpg"
+	}, {
+		"mountainName": "Mt. Osceola",
+		"mountainElevation": "4,340'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-osceola.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Osceola-StoryImage_2.jpg"
+	}, {
+		"mountainName": "Mt. Flume",
+		"mountainElevation": "4,328'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-flume.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Flume-StoryImg_2.jpg"
+	}, {
+		"mountainName": "South Hancock",
+		"mountainElevation": "4,319'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-hancock.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/SHancock-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Pierce",
+		"mountainElevation": "4,312'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-pierce.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Pierce-StoryImg.jpg"
+	}, {
+		"mountainName": "North Kinsman",
+		"mountainElevation": "4,293'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-north-kinsman.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/NKinsman-StoryImg_2.jpg"
+	}, {
+		"mountainName": "Mt. Willey",
+		"mountainElevation": "4,285'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-willey.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Willey-StoryImg_2.jpg"
+	}, {
+		"mountainName": "Bondcliff",
+		"mountainElevation": "4,265'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-bondcliff.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Bond-StoryImage_3.jpg"
+	}, {
+		"mountainName": "Zealand Mountain",
+		"mountainElevation": "4,260'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-zealand-mountain.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Zeacliff-StoryImg_2.jpg"
+	}, {
+		"mountainName": "North Tripyramid",
+		"mountainElevation": "4,180'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-tripyramids.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Tripyramids-StoryImg_2.jpg"
+	}, {
+		"mountainName": "Mt. Cabot",
+		"mountainElevation": "4,170'",
+		"mountainEffort": "Moderate to Strenuous",
+		"mountainURL": "/hiking-mount-cabot.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Cabot-StoryImg.jpg"
+	}, {
+		"mountainName": "East Osceola",
+		"mountainElevation": "4,156'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-osceola.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/EOsceola-StoryImg_2.jpg"
+	}, {
+		"mountainName": "Middle Tripyramid",
+		"mountainElevation": "4,140'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-tripyramids.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/M-Tripyramids-StoryImg.jpg"
+	}, {
+		"mountainName": "Cannon Mountain",
+		"mountainElevation": "4,100'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-cannon-mountain.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Cannon-StoryImg_2.jpg"
+	}, {
+		"mountainName": "Wildcat D",
+		"mountainElevation": "4,062'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-wildcat-mountain.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/WildcatD-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Hale",
+		"mountainElevation": "4,054'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-hale.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Hale-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Jackson",
+		"mountainElevation": "4,052'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-jackson.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Jackson-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Tom",
+		"mountainElevation": "4,051'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-tom.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Tom-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Moriah",
+		"mountainElevation": "4,049'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-moriah.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Moriah-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Passaconaway",
+		"mountainElevation": "4,043'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-passaconaway.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Passaconoway-StoryImg.jpg"
+	}, {
+		"mountainName": "Owl's Head",
+		"mountainElevation": "4,025'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-owls-head-mountain.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/OwlsHead-StoryImg.jpg"
+	}, {
+		"mountainName": "Galehead Mountain",
+		"mountainElevation": "4,024'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-galehead-mountain.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Galehead-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Whiteface",
+		"mountainElevation": "4,020'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-whiteface.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Whiteface-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Waumbek",
+		"mountainElevation": "4,006'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-waumbek.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Waumbek-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Isolation",
+		"mountainElevation": "4,003'",
+		"mountainEffort": "Strenuous",
+		"mountainURL": "/hiking-mount-isolation.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Isolation-StoryImg.jpg"
+	}, {
+		"mountainName": "Mt. Tecumseh",
+		"mountainElevation": "4,003'",
+		"mountainEffort": "Moderate",
+		"mountainURL": "/hiking-mount-tecumseh.cfm",
+		"mountainPic": "http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/story-images/images/Tecumseh-StoryImg.jpg"
+	}]
+}

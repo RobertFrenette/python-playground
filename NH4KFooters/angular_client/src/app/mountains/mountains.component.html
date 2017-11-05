@@ -1,0 +1,26 @@
+<div class="row marketing" [style.visibility]="visible">
+  <div class="col-lg-6" id="loadingMsg">
+    <div class="col">{{loadingMsg}}</div>
+  </div>
+</div>
+
+<div class="row marketing" [style.visibility]="hidden">
+  <div class="col-lg-6">
+    <div class="col">
+      <div ngbDropdown class="d-inline-block">
+        <button class="btn btn-outline-primary" ngbDropdownToggle>Select a Mountain</button>
+        <div ngbDropdownMenu>
+          <button class="dropdown-item" *ngFor="let mountain of mountains" (click)="getMountain(mountain)">{{mountain['_mountainName']}}</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-6">
+    <div id="mountainData">
+      <h2 id="mountainName">{{mountainName}}</h2>
+      <img id="mountainImg" [src]="mountainImgURL" />
+      <span *ngIf="[mountainData] != ''">{{mountainData}}</span>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,16 @@
+.hidden {
+  visibility: hidden;
+}
+.visible {
+  visibility: visible;
+}
+#loadingMsg {
+  height: 10px;
+  color: #0275d8;
+}
+#mountainData {
+  height: 500px;
+}
+#mountainName {
+  color: #0275d8;
+}

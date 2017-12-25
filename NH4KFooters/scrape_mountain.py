@@ -5,7 +5,7 @@
 # then returns a JSON payload containing data for the Mountain.
 
 # AMC page URL for Mt Washington Data:
-# http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-washington.cfm
+# https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-washington
 
 # Sample Response:
 # {
@@ -23,14 +23,14 @@ from bs4 import BeautifulSoup
 data = {}
 
 def getDataFromWeb(dataURL) :
-    prefix = 'http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers'
+    prefix = 'https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footerss'
     response = []
     
     page = urlopen(prefix + dataURL)
     pageData = page.read()
     soup = BeautifulSoup(pageData, "html.parser")
     
-    div = soup.find_all('div', class_='p amcRDCell col-xs-12 col-sm-12 col-md-12 col-lg-12 ')[-1]
+    div = soup.find_all('div', class_='elementor-text-editor elementor-clearfix')[-1]
 
     mountainDesc = div.find('p').getText()
 

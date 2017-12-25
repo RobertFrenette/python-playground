@@ -9,4 +9,4 @@ To Launch
  
 To Test
  * Get data for all Mountains: `http://127.0.0.1:3000?action=mountains&dataURL=/`
- * Get details for specific Mountain: `http://127.0.0.1:3000?action=mountain&dataURL=/hiking-mount-washington.cfm`
+ * Get details for specific Mountain: `http://127.0.0.1:3000?action=mountain&dataURL=/hiking-mount-washington`

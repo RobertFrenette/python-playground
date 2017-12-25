@@ -4,7 +4,7 @@
 # Get data for all Mountains: 
 #   python3 scrape.py mountains /
 # Get details for specific Mountain: 
-#   python3 scrape.py mountain /hiking-mount-washington.cfm
+#   python3 scrape.py mountain /hiking-mount-washington
 
 import sys
 import scrape_mountains

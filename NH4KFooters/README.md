@@ -9,7 +9,7 @@ This script calls other scripts (see below) which scrape web pages from the AMC 
 
 To Test in Terminal
  * Get data for all Mountains: `python3 scrape.py mountains /`
- * Get details for specific Mountain: `python3 scrape.py mountain /hiking-mount-washington.cfm`
+ * Get details for specific Mountain: `python3 scrape.py mountain /hiking-mount-washington`
 
 
 
@@ -26,8 +26,8 @@ This script is called from scrape.py to scrape AMC's 4,000-Footer-Guide web page
 		"mountainName": "Mt. Washington",
 		"mountainElevation": "6,288'",
 		"mountainEffort": "Strenuous",
-		"mountainURL": "/hiking-mount-washington.cfm",
-		"mountainPic": "http://www.outdoors.org/story-images/images/Washington-StoryImage_2.jpg"
+		"mountainURL": "/hiking-mount-washington",
+		"mountainPic": "https://www.outdoors.org/wp-content/uploads/2017/10/Washington-StoryImage_2.jpg"
 	}]
 } 
 ```

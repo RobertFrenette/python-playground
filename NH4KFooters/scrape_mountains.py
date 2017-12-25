@@ -5,7 +5,7 @@
 # then returns a JSON payload containing data for all Mountains.
 
 # AMC page URL for Mountains Data:
-# http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/
+# https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers
 
 # Sample Response:
 # {
@@ -13,8 +13,8 @@
 #		"mountainName": "Mt. Washington",
 #		"mountainElevation": "6,288'",
 #		"mountainEffort": "Strenuous",
-#		"mountainURL": "/hiking-mount-washington.cfm",
-#		"mountainPic": "http://www.outdoors.org/story-images/images/Washington-StoryImage_2.jpg"
+#		"mountainURL": "/hiking-mount-washington",
+#		"mountainPic": "https://www.outdoors.org/wp-content/uploads/2017/10/Washington-StoryImage_2.jpg"
 #	}]
 # }    
 
@@ -27,7 +27,7 @@ from bs4 import BeautifulSoup
 data = {}
 
 def getDataFromWeb(dataURL) :
-    prefix = 'http://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers'
+    prefix = 'https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers'
     img_prefix = 'http://www.outdoors.org'
     response = []
     
@@ -35,7 +35,7 @@ def getDataFromWeb(dataURL) :
     pageData = page.read()
     soup = BeautifulSoup(pageData, "html.parser")
     
-    divs = soup.find_all('div', class_='p amcRDCell col-xs-12 col-sm-6 col-md-3 col-lg-3 ')
+    divs = soup.find_all('div', class_='elementor-element elementor-element- elementor-column elementor-col-33 elementor-top-column')
 
     for div in divs :
         mountainData = div.find('h2').text

@@ -30,7 +30,7 @@ def getDataFromWeb(dataURL) :
     pageData = page.read()
     soup = BeautifulSoup(pageData, "html.parser")
     
-    div = soup.find_all('div', class_='elementor-text-editor elementor-clearfix')[-1]
+    div = soup.find_all('div', class_='elementor-text-editor elementor-clearfix')[0]
 
     mountainDesc = div.find('p').getText()
 

@@ -1,0 +1,582 @@
+// https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers
+
+{
+    "mountains": [{
+        "mountainName": "Mt. Washington",
+        "mountainElevation": 6288,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-washington",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Washington-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Washington (6,288 feet) is the highest peak east of the Mississippi River and north of the Carolinas. The upper part of the mountain has a climate similar to that of northern Labrador and supports a variety of alpine flora and fauna.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-washington",
+        "coords": {
+            "lat": 44.270403,
+            "lng": -71.303501
+        }
+    }, {
+        "mountainName": "Mt. Adams",
+        "mountainElevation": 5799,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-adams",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Adams-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Adams (5,799') is the second highest peak in New England, offering spectacular views across the Great Gulf and King Ravine.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-adams",
+        "coords": {
+            "lat": 44.320686,
+            "lng": -71.291742
+        }
+    }, {
+        "mountainName": " Mt. Jefferson",
+        "mountainElevation": 5716,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-jefferson",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Jefferson-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Jefferson (5,716 feet) has three summits a short distance apart, in line northwest and southeast, with the highest in the middle. Perhaps the most striking view is down the Great Gulf with the Carter Range beyond.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-jefferson",
+        "coords": {
+            "lat": 44.304196,
+            "lng": -71.316848
+        }
+    }, {
+        "mountainName": "Mt. Monroe",
+        "mountainElevation": 5372,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-monroe",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Monroe-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Monroe (5,372 feet) is the highest of the Southern Presidentials, and is a sharply pointed peak rising abruptly from the area around the Lakes of the Clouds. The summit is completely above treeline and affords fine views of the deep chasm of Oakes Gulf.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-monroe",
+        "coords": {
+            "lat": 44.255036,
+            "lng": -71.321483
+        }
+    }, {
+        "mountainName": "Mt. Madison",
+        "mountainElevation": 5366,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-madison",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Madison-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Madison (5,366 feet) is the farthest northeast of the high peaks of the Presidential Range, remarkable for the great drop of more than 4,000 feet to the river valleys east and northeast from the summit.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-madison",
+        "coords": {
+            "lat": 44.328422,
+            "lng": -71.277795
+        }
+    }, {
+        "mountainName": "Mt. Lafayette",
+        "mountainElevation": 5260,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-lafayette",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Lafayette-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Lafayette (5,260 feet) represents the highest peak in the Franconia Ridge and, from the summit, offers a stunning view of the Pemigewasset Wilderness Area.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-lafayette",
+        "coords": {
+            "lat": 44.160780,
+            "lng": -71.644464
+        }
+    }, {
+        "mountainName": "Mt. Lincoln",
+        "mountainElevation": 5089,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-lincoln",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Lincoln-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Lincoln (5,089 feet), a part of the popular and scenic Franconia Ridge, bears a sharp, rugged peak with excellent views of the surrounding area and an array of alpine plants.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-lincoln",
+        "coords": {
+            "lat": 44.148587,
+            "lng": -71.644678
+        }
+    }, {
+        "mountainName": "South Twin",
+        "mountainElevation": 4902,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-south-twin",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/STwin-StoryImage_2-5.jpg",
+        "mountainDesc": "South Twin Mountain (4,902 feet) offers sweeping views to the south of the Franconia Ridge and Franconia Brook valleys.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-south-twin",
+        "coords": {
+            "lat": 44.18762,
+            "lng": -71.554685
+        }
+    }, {
+        "mountainName": "Carter Dome",
+        "mountainElevation": 4832,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-carter-dome",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/CDome-StoryImage-5.jpg",
+        "mountainDesc": "Carter Dome (4,832'), in the Carter-Moriah Range, offers dramatic, close-up views of Mount Washington and the Presidential Range from its northeastern shoulder, Mount Hight.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-carter-dome",
+        "coords": {
+            "lat": 44.267268,
+            "lng": -71.179004
+        }
+    }, {
+        "mountainName": "Mt. Moosilauke",
+        "mountainElevation": 4802,
+        "mountainEffort": "Moderate ",
+        "mountainURL": "/hiking-mount-moosilauke",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Moosilauke-StoryImage_2-5.jpg",
+        "mountainDesc": "Mount Moosilauke, at 4,802 feet, is the western-most 4,000-footer in NH. The alpine summit, on a clear day, affords hikers stunning views, to the east, of the Franconia Ridge and Presidentials, and to the west, the Green Mountains of Vermont and, in the distance, the Adirondacks in New York State.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-moosilauke",
+        "coords": {
+            "lat": 44.024422,
+            "lng": -71.830974
+        }
+    }, {
+        "mountainName": "Mt. Eisenhower",
+        "mountainElevation": 4760,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-eisenhower",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Eisenhower-StoryImage_2-5.jpg",
+        "mountainDesc": "Mount Eisenhower (4,760 ft.), part of the southern Presidential Range, has a bald summit that offers 360-degree views of the surrounding area.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-eisenhower",
+        "coords": {
+            "lat": 44.240526,
+            "lng": -71.350193
+        }
+    }, {
+        "mountainName": "North Twin",
+        "mountainElevation": 4761,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-north-twin",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/NTwin-StoryImage_2-5.jpg",
+        "mountainDesc": "North Twin Mountain (4,761 feet), adjacent to the taller South Twin Mountain, offers a challenging climb to superb outlook ledges near its summit.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-north-twin",
+        "coords": {
+            "lat": 44.202482,
+            "lng": -71.557646
+        }
+    }, {
+        "mountainName": "Mt. Carrigain",
+        "mountainElevation": 4700,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-carrigain",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Carrigain-StoryImage_2-5.jpg",
+        "mountainDesc": "Mount Carrigain, at 4,700 feet, is one of the highest peaks along the southeastern ridge bordering the Pemigewasset Wilderness Area. An observation tower on Carrigain's summit provides hikers with a stunning view of the surrounding White Mountains.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-carrigain",
+        "coords": {
+            "lat": 44.093411,
+            "lng": -71.446924
+        }
+    }, {
+        "mountainName": "Mt. Bond",
+        "mountainElevation": 4698,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-bond",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Bond-StoryImage_2-5.jpg",
+        "mountainDesc": "Mount Bond (4,698 ft.), the highest peak in the southern Twin range, represents, with neighboring Mt. Guyot, one of the two most remote peaks in the White Mountains. From Bond's summit, there is virtually no sign of human impact in the form of roads or buildings.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-bond",
+        "coords": {
+            "lat": 44.152806,
+            "lng": -71.530995
+        }
+    }, {
+        "mountainName": "Middle Carter",
+        "mountainElevation": 4610,
+        "mountainEffort": "Moderate to Strenuous",
+        "mountainURL": "/hiking-middle-carter",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/MidCarter-StoryImage-5.jpg",
+        "mountainDesc": "A part of the Carter-Moriah Range, Middle Carter Mountain (4,610'), though wooded, rewards hikers 70 yards north of its summit with a view of the Presidential Range.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-middle-carter",
+        "coords": {
+            "lat": 44.303059,
+            "lng": -71.16776
+        }
+    }, {
+        "mountainName": "West Bond",
+        "mountainElevation": 4540,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-west-bond",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/WBond-StoryImage-5.jpg",
+        "mountainDesc": "West Bond (4,540 ft.), a spur of Mount Bond in the southern Twin range, offers extensive views of the White Mountains with virtually no sign of human interference in the form of buildings or roads from the summit.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-west-bond",
+        "coords": {
+            "lat": 44.154438,
+            "lng": -71.544085
+        }
+    }, {
+        "mountainName": "Mt. Garfield",
+        "mountainElevation": 4500,
+        "mountainEffort": "Moderate to Strenuous",
+        "mountainURL": "/hiking-mount-garfield",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Garfield-StoryImage-5.jpg",
+        "mountainDesc": "A trip to Mt. Garfield's rocky summit (4,500 ft.) rewards hikers with a panoramic view of the surrounding Franconia Ridge and Franconia and Lincoln Brooks valleys.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-garfield",
+        "coords": {
+            "lat": 44.187374,
+            "lng": -71.611204
+        }
+    }, {
+        "mountainName": "Mt. Liberty",
+        "mountainElevation": 4459,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-liberty",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Liberty-StoryImage_2-5.jpg",
+        "mountainDesc": "Amidst the scenic Franconia Ridge, Mt. Liberty (4,459 feet) bears a sharp, ledgy peak with excellent views of the surrounding area, including nearby Mount Bond and the Pemigewasset Wilderness.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-liberty",
+        "coords": {
+            "lat": 44.115907,
+            "lng": -71.641974
+        }
+    }, {
+        "mountainName": "South Carter",
+        "mountainElevation": 4430,
+        "mountainEffort": "Moderate to Strenuous",
+        "mountainURL": "/hiking-south-carter",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Carters-StoryImage-5.jpg",
+        "mountainDesc": "In the midst of the Carter-Moriah Range, South Carter Mountain (4,430'), fails to provide any views from its wooded peak, but offers hikers the opportunity to explore the beauty of a typical high-elevation White Mountain boreal forest.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-south-carter",
+        "coords": {
+            "lat": 44.289729,
+            "lng": -71.176472
+        }
+    }, {
+        "mountainName": "Wildcat Mountain",
+        "mountainElevation": 4422,
+        "mountainEffort": "Strenuous ",
+        "mountainURL": "/hiking-wildcat-mountain",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Wildcat-StoryImage-5.jpg",
+        "mountainDesc": "Wildcat Mountain (4,422'), located in the Carter-Moriah Range, offers dramatic, close-up views of Carter Notch and Carter Dome from its summit. Wildcat's D Peak (4,062'), home to Wildcat Ski Area, is considered an independent 4,000-footer and offers excellent views of Mt. Washington and the Presidential Range from an observation tower.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-wildcat-mountain",
+        "coords": {
+            "lat": 44.25897,
+            "lng": -71.201663
+        }
+    }, {
+        "mountainName": " Mt. Hancock",
+        "mountainElevation": 4420,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-hancock",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Hancock-StoryImage_2-5.jpg",
+        "mountainDesc": "Located at the southern border of the Pemigewasset Wilderness, Mt. Hancock is characterized by a long ridge with several peaks, most importantly the North Peak (4,420') and the South Peak (4,319'), also known as South Hancock. Although both peaks are wooded to the top, lookout ledges near the North Peak offer views of Mt. Osceola and the Sandwich Range to the south.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-hancock",
+        "coords": {
+            "lat": 44.083331,
+            "lng": -71.493273
+        }
+    }, {
+        "mountainName": "South Kinsman",
+        "mountainElevation": 4358,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-south-kinsman",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/SKinsman-StoryImage-5.jpg",
+        "mountainDesc": "South Kinsman (4358') is the highest point on the Kinsman-Cannon Ridge.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-south-kinsman",
+        "coords": {
+            "lat": 44.122869,
+            "lng": -71.736774
+        }
+    }, {
+        "mountainName": "Mt. Field",
+        "mountainElevation": 4340,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-field",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Field-StoryImage-5.jpg",
+        "mountainDesc": "Mt. Field (4,340') is the highest peak within the Willey Range, which rises from the western boundary of Crawford Notch State Park.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-field",
+        "coords": {
+            "lat": 44.196174,
+            "lng": -71.43332
+        }
+    }, {
+        "mountainName": "Mt. Osceola",
+        "mountainElevation": 4340,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-osceola",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Osceola-StoryImage_2-5.jpg",
+        "mountainDesc": "Mt. Osceola (4,340') is the highest peak in the Waterville Valley Region and offers great views of the Pemigewasset Wilderness to the north. East Osceola (4,156') is the subordinate peak to Mt. Osceola. Immediately to the south of Mt. Osceola is Mt. Tecumseh (4,003'), the shortest official 4,000 footer. East, across the valley, is the Tripyramid Massif, which includes North Tripyramid (4,180') and Middle Tripyramid (4,140').",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-osceola",
+        "coords": {
+            "lat": 44.001459,
+            "lng": -71.535802
+        }
+    }, {
+        "mountainName": "Mt. Flume",
+        "mountainElevation": 4328,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-flume",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Flume-StoryImg_2-5.jpg",
+        "mountainDesc": "Mt. Flume (4,328'), a part of the popular and scenic Franconia Ridge, bears a sharp, rugged peak with excellent views of the surrounding area and an array of alpine plants.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-flume",
+        "coords": {
+            "lat": 44.108912,
+            "lng": -71.627941
+        }
+    }, {
+        "mountainName": "South Hancock",
+        "mountainElevation": 4319,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-hancock",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/SHancock-StoryImg-5.jpg",
+        "mountainDesc": "Located at the southern border of the Pemigewasset Wilderness, Mt. Hancock is characterized by a long ridge with several peaks, most importantly the North Peak (4,420') and the South Peak (4,319'), also known as South Hancock. Although both peaks are wooded to the top, lookout ledges near the North Peak offer views of Mt. Osceola and the Sandwich Range to the south.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-hancock",
+        "coords": {
+            "lat": 44.073311,
+            "lng": -71.487093
+        }
+    }, {
+        "mountainName": "Mt. Pierce",
+        "mountainElevation": 4312,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-pierce",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Pierce-StoryImg-5.jpg",
+        "mountainDesc": "Mount Pierce (4,312 ft.), part of the southern Presidential Range, has a flat summit with a broad, open area on the east side that offers striking views of the surrounding area.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-pierce",
+        "coords": {
+            "lat": 44.226535,
+            "lng": -71.365771
+        }
+    }, {
+        "mountainName": "North Kinsman",
+        "mountainElevation": 4293,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-north-kinsman",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/NKinsman-StoryImg_2-5.jpg",
+        "mountainDesc": "North Kinsman (4,293') is the second highest peak on the Kinsman-Cannon Ridge. Ledges just below the wooded summit offer great views of Mt. Lafayette and Mt. Lincoln across Franconia Notch.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-north-kinsman",
+        "coords": {
+            "lat": 44.133404,
+            "lng": -71.736946
+        }
+    }, {
+        "mountainName": "Mt. Willey",
+        "mountainElevation": 4285,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-willey",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Willey-StoryImg_2-5.jpg",
+        "mountainDesc": "Mt. Willey (4,285') is the second of highest and southernmost mountain of the Willey Range, which also includes Mt. Field (4,340') and Mt. Tom (4,051').",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-willey",
+        "coords": {
+            "lat": 44.183866,
+            "lng": -71.42096
+        }
+    }, {
+        "mountainName": "Bondcliff",
+        "mountainElevation": 4265,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-bondcliff",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Bond-StoryImage_3-5.jpg",
+        "mountainDesc": "Bondcliff (4,265 ft.), along with neighboring Mt. Guyot and Mt. Bond, offers some of the most stunning views in the Whites, with virtually no sign of roads or buildings visible from the summit.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-bondcliff",
+        "coords": {
+            "lat": 44.139841,
+            "lng": -71.542068
+        }
+    }, {
+        "mountainName": "Zealand Mountain",
+        "mountainElevation": 4260,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-zealand-mountain",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Zeacliff-StoryImg_2-5.jpg",
+        "mountainDesc": "The summit of Zealand Mountain (4,260 feet) is wooded and viewless, but the trip is nonetheless worthwhile when hikers include a stop at the nearby Zeacliff outlook along the way.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-zealand-mountain",
+        "coords": {
+            "lat": 44.179311,
+            "lng": -71.521254
+        }
+    }, {
+        "mountainName": "North Tripyramid",
+        "mountainElevation": 4180,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-tripyramids",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Tripyramids-StoryImg_2-5.jpg",
+        "mountainDesc": "The Tripyramid massif includes three peaks: North Tripyramid (4,180'), Middle Tripyramid (4,140'), and South Tripyramid (4,100'). The latter peak is not considered an official 4,000 footer because there is not a sufficient change in altitude between its neighboring peak.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-tripyramids",
+        "coords": {
+            "lat": 43.973144,
+            "lng": -71.44289
+        }
+    }, {
+        "mountainName": "Mt. Cabot",
+        "mountainElevation": 4170,
+        "mountainEffort": "Moderate to Strenuous",
+        "mountainURL": "/hiking-mount-cabot",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Cabot-StoryImg-5.jpg",
+        "mountainDesc": "Mount Cabot (4,170 ft.) is the highest peak in New Hampshire's North Country, offering interesting views from the site of a former fire tower, just southeast of the summit.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-cabot",
+        "coords": {
+            "lat": 44.505963,
+            "lng": -71.414394
+        }
+    }, {
+        "mountainName": "East Osceola",
+        "mountainElevation": 4156,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-osceola",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/EOsceola-StoryImg_2-5.jpg",
+        "mountainDesc": "Mt. Osceola (4,340') is the highest peak in the Waterville Valley Region and offers great views of the Pemigewasset Wilderness to the north. East Osceola (4,156') is the subordinate peak to Mt. Osceola. Immediately to the south of Mt. Osceola is Mt. Tecumseh (4,003'), the shortest official 4,000 footer. East, across the valley, is the Tripyramid Massif, which includes North Tripyramid (4,180') and Middle Tripyramid (4,140').",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-osceola",
+        "coords": {
+            "lat": 44.006089,
+            "lng": -71.520481
+        }
+    }, {
+        "mountainName": "Middle Tripyramid",
+        "mountainElevation": 4140,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-tripyramids",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/M-Tripyramids-StoryImg-5.jpg",
+        "mountainDesc": "The Tripyramid massif includes three peaks: North Tripyramid (4,180'), Middle Tripyramid (4,140'), and South Tripyramid (4,100'). The latter peak is not considered an official 4,000 footer because there is not a sufficient change in altitude between its neighboring peak.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-tripyramids",
+        "coords": {
+            "lat": 43.964619,
+            "lng": -71.440187
+        }
+    }, {
+        "mountainName": " Cannon Mountain",
+        "mountainElevation": 4100,
+        "mountainEffort": "Moderate  ",
+        "mountainURL": "/hiking-cannon-mountain",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Cannon-StoryImg_2-5.jpg",
+        "mountainDesc": "Cannon Mountain (4,100') is also known as Profile Mountain, referring to the magnificent profile of the Old Man of the Mountain, an infamous formation of three ledges on the east cliff that collapsed in May 2003.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-cannon-mountain",
+        "coords": {
+            "lat": 44.156993,
+            "lng": -71.698794
+        }
+    }, {
+        "mountainName": " Wildcat D",
+        "mountainElevation": 4062,
+        "mountainEffort": "Strenuous ",
+        "mountainURL": "/hiking-wildcat-mountain",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/WildcatD-StoryImg-5.jpg",
+        "mountainDesc": "Wildcat Mountain (4,422'), located in the Carter-Moriah Range, offers dramatic, close-up views of Carter Notch and Carter Dome from its summit. Wildcat's D Peak (4,062'), home to Wildcat Ski Area, is considered an independent 4,000-footer and offers excellent views of Mt. Washington and the Presidential Range from an observation tower.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-wildcat-mountain",
+        "coords": {
+            "lat": 44.249472,
+            "lng": -71.22385
+        }
+    }, {
+        "mountainName": "Mt. Hale",
+        "mountainElevation": 4054,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-hale",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Hale-StoryImg-5.jpg",
+        "mountainDesc": "Mount Hale (4,054'), one of the Little River Mountains offers hikers an easy hike.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-hale",
+        "coords": {
+            "lat": 44.221707,
+            "lng": -71.512113
+        }
+    }, {
+        "mountainName": "Mt. Jackson",
+        "mountainElevation": 4052,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-jackson",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Jackson-StoryImg-5.jpg",
+        "mountainDesc": "Mount Jackson (4,052 ft.), part of the southern Presidential Range, has a square, ledgy summit that offers stunning views of the surrounding Presidentials.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-jackson",
+        "coords": {
+            "lat": 44.203097,
+            "lng": -71.375299
+        }
+    }, {
+        "mountainName": "Mt. Tom",
+        "mountainElevation": 4051,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-tom",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Tom-StoryImg-5.jpg",
+        "mountainDesc": "Mt. Tom (4,051') is the northern most peak of the Willey Range, which rises from the western boundary of Crawford Notch State Park.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-tom",
+        "coords": {
+            "lat": 44.210357,
+            "lng": -71.445894
+        }
+    }, {
+        "mountainName": "Mt. Moriah",
+        "mountainElevation": 4049,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-moriah",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Moriah-StoryImg-5.jpg",
+        "mountainDesc": "A part of the Carter-Moriah Range, Mount Moriah (4,049 ft.), boasts a ledgy summit with views of the surrounding area.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-moriah",
+        "coords": {
+            "lat": 44.340486,
+            "lng": -71.131926
+        }
+    }, {
+        "mountainName": "Mt. Passaconaway",
+        "mountainElevation": 4043,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-passaconaway",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Passaconoway-StoryImg-5.jpg",
+        "mountainDesc": "Mt. Passaconaway (4,043'), the easternmost 4,000 footer of the Sandwich Range Wilderness, shares a prominent ridge with Mt. Whiteface (4,020'). A lookout ledge just below Mt. Passaconaway's wooded summit offers great views of the Tripyramid massif to the west and South Hancock (4,319') and Mt. Carrigain (4,700') to the north.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-passaconaway",
+        "coords": {
+            "lat": 43.954827,
+            "lng": -71.38092
+        }
+    }, {
+        "mountainName": "Owl's Head",
+        "mountainElevation": 4025,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-owls-head-mountain",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/OwlsHead-StoryImg-5.jpg",
+        "mountainDesc": "Owl's Head Mountain (4,025 feet), occupies a narrow valley created by the Twin-Bond Range to the east and the Franconia Range to the west. More than ten 4,000s surround Owl's Head. Needless to say, it is one of the more remote major summits in the White Mountains.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers//hiking-owls-head-mountain",
+        "coords": {
+            "lat": 44.144368,
+            "lng": -71.604853
+        }
+    }, {
+        "mountainName": "Galehead Mountain",
+        "mountainElevation": 4024,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-galehead-mountain",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Galehead-StoryImg-5.jpg",
+        "mountainDesc": "Galehead Mountain (4,024 feet), a part of the Twin Range, offers views of nearby North and South Twin from the Frost Trail.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-galehead-mountain",
+        "coords": {
+            "lat": 44.185097,
+            "lng": -71.573396
+        }
+    }, {
+        "mountainName": "Mt. Whiteface",
+        "mountainElevation": 4020,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-whiteface",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Whiteface-StoryImg-5.jpg",
+        "mountainDesc": "Mt. Whiteface (4020') shares a prominent ridge with Mt. Passaconaway (4,043') the easternmost 4,000 footer of the Sandwich Range Wilderness. Lookout ledges south of Mt. Whiteface's wooded summit offer great views of New Hampshire's Lakes Region.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-whiteface",
+        "coords": {
+            "lat": 43.933815,
+            "lng": -71.405897
+        }
+    }, {
+        "mountainName": "Mt. Waumbek",
+        "mountainElevation": 4006,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-waumbek",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Waumbek-StoryImg-5.jpg",
+        "mountainDesc": "Mt. Waumbek (4,006 ft.), is the highest peak in the Pliny Range of New Hampshire's North Country, offering views to the east just beyond the summit, along the Kilkenny Ridge Trail.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-waumbek",
+        "coords": {
+            "lat": 44.432677,
+            "lng": -71.417484
+        }
+    }, {
+        "mountainName": "Mt. Isolation",
+        "mountainElevation": 4003,
+        "mountainEffort": "Strenuous",
+        "mountainURL": "/hiking-mount-isolation",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Isolation-StoryImg-5.jpg",
+        "mountainDesc": "Mount Isolation (4,003 ft.) is the highest peak of the Montalban Ridge, a subsidiary of the Presidentials, and offers stunning views of the Presidentials - one of the finest views in the White Mountains.",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-isolation",
+        "coords": {
+            "lat": 44.214756,
+            "lng": -71.309466
+        }
+    }, {
+        "mountainName": "Mt. Tecumseh",
+        "mountainElevation": 4003,
+        "mountainEffort": "Moderate",
+        "mountainURL": "/hiking-mount-tecumseh",
+        "mountainPic": "http://www.outdoors.org/wp-content/uploads/2017/10/Tecumseh-StoryImg-5.jpg",
+        "mountainDesc": "Mt. Tecumseh (4,003') is the shortest official 4,000 footer and home to Waterville Valley ski area. Views to the immediate north include Mt. Osceola (4,340'), the highest peak in the region. East, across the valley, is the Tripyramid Massif, which includes North Tripyramid (4,180') and Middle Tripyramid (4,140').",
+        "detailPage": "https://www.outdoors.org/trip-ideas-tips-resources/plan-your-trip/nh-4000-footers/hiking-mount-tecumseh",
+        "coords": {
+            "lat": 43.966565,
+            "lng": -71.556745
+        }
+    }]
+}
+
